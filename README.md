@@ -5,6 +5,7 @@
 
 
 - Melakukan GET pada web browser
+  
   ![image](https://github.com/user-attachments/assets/2d1d90a1-b299-48bb-b1ba-3c33ea07b11e)
 
 
@@ -22,6 +23,7 @@
 
 
 - Melakukan perintah GET pada Web Browser
+  
   ![image](https://github.com/user-attachments/assets/14750ea8-81fb-493b-a16f-d4e187a0193c)
 
 
